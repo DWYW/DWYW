@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats-swart.vercel.app/api?username=dwyw&show_icons=true" align="right"/>
+<img src="https://github-readme-stats-swart.vercel.app/api?username=dwyw&show_icons=true&hide_title=true" align="right"/>
 
 ### Hi there 👋
 
