@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![github stats](https://github-readme-stats-swart.vercel.app/api?username=dwyw&show_icons=true)
+![most used languages](https://github-readme-stats-swart.vercel.app/api/top-langs/?username=dwyw&layout=compact)
+
+<!-- <div align="center">
+  <div> Visited Count </div>
+  <div>
+    <img src="https://profile-counter.glitch.me/dwyw/count.svg">
+  </div>
+</div> -->
+
 <!--
 **DWYW/dwyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
